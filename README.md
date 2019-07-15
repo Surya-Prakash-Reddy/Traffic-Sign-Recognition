@@ -1,5 +1,5 @@
 # Traffic Sign Recognition
-> Recognizes the traffic signs in images.
+> Recognises the traffic signs in images.
 
 ## Table of contents
 * [About Project](#about-project)
@@ -9,8 +9,8 @@
 ## About Project:
 
   Traffic signs provide useful information without which we would face many accidents and also causes discomfort to 
-  other vehicle drivers. Inorder to make self driving cars more safe recognizing the traffic signs is very important. In 
-  this project we recognize the traffic signs with an accuracy of over 99%.
+  other vehicle drivers. Inorder to make self driving cars more safe recognising the traffic signs is very important. In 
+  this project we recognise the traffic signs with an accuracy of over 99%.
   
   
   ![Output of Model](https://github.com/SurajChinna/Classifying-Cats-and-Dogs/blob/master/assets/image1.png "Output of Model")
